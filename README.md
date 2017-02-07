@@ -1,5 +1,4 @@
-
-nt-End internship test
+Front-End internship test
 ---
 
 This test aims to assess your knowledge in HTML and CSS, as well as the organization and structure of the project.
