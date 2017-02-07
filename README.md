@@ -35,14 +35,14 @@ Create a page that contains registration and login forms using only `HTML` and` 
 4. Make a Pull Request.
 
 
-##What we hope
+##What we expect
 
 * Do not copy from existing examples;
 * Organize the files properly;
 * Develop semantic HTML;
 * Support IE10+, Chrome, Safari and Firefox.
 
-##It will be a bonus if
+##It would be a bonus if
 
 * Follow SEO best practices;
 * Make good use of CSS classes;
