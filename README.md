@@ -18,7 +18,7 @@ Create a page that contains registration and login forms using only `HTML` and` 
 		Confirm password (type password)
 		Sign up (button)
 	
-	"**Log In**" tab:
+"**Log In**" tab:
 
 * Fields:
 
